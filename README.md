@@ -78,13 +78,16 @@ Hi, I’m Swapnil Srivastav, a Computer Science graduate with a strong focus on 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-###
-<img align="right" height="150" src="https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif"  />
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=swapnil-289&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=swapnil-289&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+###
+<img align="right" height="150" src="https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif"  />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
