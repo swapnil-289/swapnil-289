@@ -65,10 +65,6 @@ Hi, I’m Swapnil Srivastav, a Computer Science graduate with a strong focus on 
   <img width="12" />
 </div>
 
-###
-<img align="right" height="150" src="https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif"  />
-
-
 
 
 # 📊 GitHub Stats:
@@ -80,6 +76,10 @@ Hi, I’m Swapnil Srivastav, a Computer Science graduate with a strong focus on 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+###
+<img align="right" height="150" src="https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif"  />
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=swapnil-289&limit=5&theme=dark&combine_all_yearly_contributions=true)
