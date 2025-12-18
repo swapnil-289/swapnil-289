@@ -6,7 +6,7 @@ Hi, I’m Swapnil Srivastav, a Computer Science graduate with a strong focus on 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnilsrivastav012/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srivastavswapnil012@gmail.com) 
 
 
-<br></br>
+
 
 # 💻 Tech Stack:
 
@@ -70,7 +70,7 @@ Hi, I’m Swapnil Srivastav, a Computer Science graduate with a strong focus on 
 
 
 <br></br>
-<br></br>
+---
 
 
 # 📊 GitHub Stats:
@@ -79,15 +79,18 @@ Hi, I’m Swapnil Srivastav, a Computer Science graduate with a strong focus on 
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=swapnil-289&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 <br></br>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
 
-<img align="right" height="140" src="https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif"  />
+<img align="right" height="100" src="https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif"  />
 
+<br></br>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=swapnil-289&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
