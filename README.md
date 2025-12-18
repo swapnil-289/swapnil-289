@@ -96,7 +96,7 @@ Hi, I’m Swapnil Srivastav, a Computer Science graduate with a strong focus on 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=swapnil-289&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<img align="right" height="100" src="https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif"  />
 
 
 
