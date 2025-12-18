@@ -88,7 +88,7 @@ Hi, I’m Swapnil Srivastav, a Computer Science graduate with a strong focus on 
 
 
 
-<img align="right" height="100" src="https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif"  />
+<img align="right" height="100" style="margin-top: 30px" src="https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif"  />
 
 <br></br>
 ### 🔝 Top Contributed Repo
