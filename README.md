@@ -5,6 +5,9 @@ Hi, I’m Swapnil Srivastav, a Computer Science graduate with a strong focus on 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnilsrivastav012/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srivastavswapnil012@gmail.com) 
 
+
+<br></br>
+
 # 💻 Tech Stack:
 
 ###
@@ -85,7 +88,7 @@ Hi, I’m Swapnil Srivastav, a Computer Science graduate with a strong focus on 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=swapnil-289&icon=0&color=0)](https://visitcount.itsvg.in)
-<img src="https://raw.githubusercontent.com/swapnil-289/swapnil-289/output/snake.svg" alt="Snake animation" />
+
 
 
 
